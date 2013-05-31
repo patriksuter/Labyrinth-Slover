@@ -1,0 +1,7 @@
+C:\Users\Patrik_Admin\TEAMPROJEKTE\Laby-ZP3\Laby-ZP3\bin\Debug\Laby-ZP3.exe
+C:\Users\Patrik_Admin\TEAMPROJEKTE\Laby-ZP3\Laby-ZP3\bin\Debug\Laby-ZP3.pdb
+C:\Users\Patrik_Admin\TEAMPROJEKTE\Laby-ZP3\Laby-ZP3\obj\x86\Debug\Laby_ZP3.Form1.resources
+C:\Users\Patrik_Admin\TEAMPROJEKTE\Laby-ZP3\Laby-ZP3\obj\x86\Debug\Laby_ZP3.Properties.Resources.resources
+C:\Users\Patrik_Admin\TEAMPROJEKTE\Laby-ZP3\Laby-ZP3\obj\x86\Debug\Laby-ZP3.csproj.GenerateResource.Cache
+C:\Users\Patrik_Admin\TEAMPROJEKTE\Laby-ZP3\Laby-ZP3\obj\x86\Debug\Laby-ZP3.exe
+C:\Users\Patrik_Admin\TEAMPROJEKTE\Laby-ZP3\Laby-ZP3\obj\x86\Debug\Laby-ZP3.pdb
